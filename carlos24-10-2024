@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 11/10/2024 17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 28/10/2024 17:25:15
 
 ########################################### CANAIS GLOBO ##############################################################
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD +
-http://cdn22.cc:80/Magalhaesps/101280/199787.ts
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD
+http://tv5.me:80/geovani0003/Ye22209010/122155
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ 
 http://tv5.me:80/ItaloD/102030qaz/35759
@@ -13,11 +13,11 @@ http://tv5.me:80/ItaloD/102030qaz/35759
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo PR
-http://xciptv.aplicativos.top:80/257193/257193/360914
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
+
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/128.ts
 
 
 ########################################### SINHÁ MOÇA #########################################################
@@ -202,16 +202,201 @@ https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi059.mp4
 #EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 60
 https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi060.mp4
 
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 61
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi061.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 62
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi062.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 63
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi063.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 64
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi064.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 65
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi065.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 66
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi066.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 67
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi0670.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 68
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi068.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 69
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi069.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 70
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi070.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 71
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi071.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 72
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi072.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 73
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi073.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 74
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi074.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 75
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi075.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 76
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi076.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 77
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi077.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 78
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi078.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 79
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi079.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 80
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi080.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 81
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi081.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 82
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi082.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 83
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi083.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 84
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi084.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 85
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi085.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 86
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi086.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 87
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi087.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 88
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi088.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 89
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi089.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 90
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi090.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 91
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi091.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 92
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi092.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 93
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi093.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 94
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi094.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 95
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi095.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 96
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi096.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 97
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi097.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 98
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi098.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 99
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi099.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 100
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi100.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 101
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi101.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 102
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi102.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 103
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi103.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 104
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi104.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 105
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi105.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 106
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi106.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 107
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi107.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 108
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi108.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 109
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi109.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 110
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi110.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 111
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi111.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 112
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi112.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 113
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi113.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 114
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi114.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 115
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi115.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 116
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi116.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 117
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi117.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 118
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi118.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 119
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi119.mp4
+
+#EXTINF:-1 tvg-id="SINHÁ MOÇA" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | SINHÁ MOÇA",SINHÁ MOÇA CAPITULO 120
+https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi120.mp4
+
+
+
 
 
 
 ########################################### CANAIS BAND #########################################################
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band MG
-http://xciptv.aplicativos.top:80/257193/257193/255483
+http://cdn22.cc:80/Magalhaesps/101280/123583.ts
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP
-http://xciptv.aplicativos.top:80/257193/257193/284590
+http://cdn22.cc:80/Magalhaesps/101280/113583.ts
+
+#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [FHD]" tvg-logo="http://p6.vc/VVL" group-title="Canais | Abertos",BAND RJ [FHD]
+http://cdn22.cc:80/Magalhaesps/101280/122446.ts
 
 ########################################### CANAIS RedeTV ########################################################
 
@@ -224,10 +409,10 @@ https://cdn2.easy.tv.br/redetv/index.m3u8
 http://xciptv.aplicativos.top:80/257193/257193/244185
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT SP
-http://xciptv.aplicativos.top:80/257193/257193/244168
+http://cdn22.cc:80/Magalhaesps/101280/174142.ts
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT RJ
-http://tv5.me:80/ItaloD/102030qaz/41402
+http://cdn22.cc:80/Magalhaesps/101280/50875.ts
 
 #EXTINF:-1 group-title="Canais | SBT" tvg-logo="https://imgur.com/w2CTebZ.png",Mais SBT HD
 https://aovivo.maissbt.com/index.m3u8
@@ -246,13 +431,13 @@ http://xciptv.aplicativos.top:80/257193/257193/240805
 ########################################### CANAIS RECORD TV #########################################################
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MG
-http://xciptv.aplicativos.top:80/257193/257193/367058
+http://cdn22.cc:80/Magalhaesps/101280/58.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ
-http://xciptv.aplicativos.top:80/257193/257193/244092
+http://cdn22.cc:80/Magalhaesps/101280/50880.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP
-http://xciptv.aplicativos.top:80/257193/257193/244079
+http://cdn22.cc:80/Magalhaesps/101280/45.ts
 
 ################################################# CANAIS NOVELAS ##############################################################
 
@@ -263,7 +448,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 http://tv5.me:80/ItaloD/102030qaz/6441
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
-http://xciptv.aplicativos.top:80/257193/257193/2537
+http://cdn22.cc:80/Magalhaesps/101280/105.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Viva 70 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34MKrnzK3jINRtWme9axOvwD3C8NHjiur0g&s" group-title="Canais | NOVELAS",Viva anos 70 
 http://tv5.me:80/ItaloD/102030qaz/180817
@@ -277,16 +462,16 @@ http://tv5.me:80/ItaloD/102030qaz/226258
 ########################################### CANAIS INTERNACIONAIS #########################################################
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News
-http://xciptv.aplicativos.top:80/257193/257193/118883
+http://cdn22.cc:80/Magalhaesps/101280/130229.ts
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN Brasil
-http://xciptv.aplicativos.top:80/257193/257193/21353
+http://cdn22.cc:80/Magalhaesps/101280/130230.ts
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Record_News.png" group-title="Canais | NOTÍCIAS",Record News
-http://xciptv.aplicativos.top:80/257193/257193/118889
+http://cdn22.cc:80/Magalhaesps/101280/511.ts
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
-http://xciptv.aplicativos.top:80/257193/257193/483
+http://cdn22.cc:80/Magalhaesps/101280/130231.ts
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News 
 http://tv5.me:80/ItaloD/102030qaz/21129
@@ -310,17 +495,29 @@ http://xciptv.aplicativos.top:80/257193/257193/385529
 
 ######################################### A FAZENDA ##############################################################
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda 2 HD
-http://xciptv.aplicativos.top:80/257193/257193/397631
+#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 1 HD
+http://cdn22.cc:80/Magalhaesps/101280/240876.ts
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda 3 HD
-http://xciptv.aplicativos.top:80/257193/257193/397632
+#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 2 HD
+http://cdn22.cc:80/Magalhaesps/101280/240877.ts
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda 4 HD
-http://xciptv.aplicativos.top:80/257193/257193/397633
+#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 3 HD
+http://cdn22.cc:80/Magalhaesps/101280/240878.ts
 
-#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda 5 HD
-http://xciptv.aplicativos.top:80/257193/257193/397634
+#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 4 HD
+http://cdn22.cc:80/Magalhaesps/101280/240879.ts
+
+#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 5 HD
+http://cdn22.cc:80/Magalhaesps/101280/240880.ts
+
+#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 6 HD
+http://cdn22.cc:80/Magalhaesps/101280/240881.ts
+
+#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 7 HD
+http://cdn22.cc:80/Magalhaesps/101280/240882.ts
+
+#EXTINF:-1 group-title="Canais | A Fazenda" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png",A Fazenda CAN 8 HD
+http://cdn22.cc:80/Magalhaesps/101280/240883.ts
 
 ######################################### Cine SKY temporário  ##############################################################
 
@@ -364,25 +561,25 @@ http://tv5.me:80/ItaloD/102030qaz/95852
 ######################################### CANAIS FILMES E SERIES ##############################################################
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE 
-http://xciptv.aplicativos.top:80/257193/257193/706
+http://cdn22.cc:80/Magalhaesps/101280/282.ts
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E
 http://tv5.me:80/ItaloD/102030qaz/6971
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC 
-http://xciptv.aplicativos.top:80/257193/257193/670
+http://cdn22.cc:80/Magalhaesps/101280/294.ts
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN 
-http://xciptv.aplicativos.top:80/257193/257193/674
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN
+http://cdn22.cc:80/Magalhaesps/101280/223192.ts 
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Canais | FILMES E SERIES",CINECANAL
-http://xciptv.aplicativos.top:80/257193/257193/21239
+http://cdn22.cc:80/Magalhaesps/101280/132946.ts
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX 
-http://xciptv.aplicativos.top:80/257193/257193/682
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX
+http://cdn22.cc:80/Magalhaesps/101280/275.ts 
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX 1
-http://xciptv.aplicativos.top:80/257193/257193/689
+http://cdn22.cc:80/Magalhaesps/101280/30218.ts
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX 2
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
@@ -397,34 +594,34 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/e0fa44a9-c0e7-4411-80be-447b9e7684ca/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX 
-http://xciptv.aplicativos.top:80/257193/257193/591
+http://cdn22.cc:80/Magalhaesps/101280/279.ts
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO + 
-http://xciptv.aplicativos.top:80/257193/257193/21249
+http://cdn22.cc:80/Magalhaesps/101280/465.ts
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2
-http://xciptv.aplicativos.top:80/257193/257193/21246
+http://cdn22.cc:80/Magalhaesps/101280/472.ts
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO FAMILY
-http://xciptv.aplicativos.top:80/257193/257193/21247
+http://cdn22.cc:80/Magalhaesps/101280/464.ts
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO POP
-http://xciptv.aplicativos.top:80/257193/257193/18782
+http://cdn22.cc:80/Magalhaesps/101280/123554.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
-http://xciptv.aplicativos.top:80/257193/257193/730
+http://cdn22.cc:80/Magalhaesps/101280/287.ts
 
 #EXTINF:-1 vg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
 http://gzcdn.vood.top:80/hls/749_.m3u8
 
 #EXTINF:-1 tvg-id="Universal tv" tvg-name="Universal tv" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-fundo-colorido.jpg" group-title="Canais | FILMES E SERIES",Universal TV
-http://xciptv.aplicativos.top:80/257193/257193/710
+http://cdn22.cc:80/Magalhaesps/101280/53286.ts
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime
-http://1111.wf:80/670252437/8989520/285560
+http://cdn22.cc:80/Magalhaesps/101280/334.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
@@ -447,7 +644,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301
 
 ########################################### CANAIS SporTV ##############################################################
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV 
 http://tv5.me:80/ItaloD/102030qaz/6928
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 
@@ -479,7 +676,7 @@ http://tv5.me:80/ItaloD/102030qaz/17077
 ########################################### CANAIS BAND SPORTS #########################################################
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Band Sports",Band Sports 
-http://xciptv.aplicativos.top:80/257193/257193/21225
+http://cdn22.cc:80/Magalhaesps/101280/130175.ts
 
 ########################################### CANAIS LUTAS ##############################################################
 
@@ -487,12 +684,21 @@ http://xciptv.aplicativos.top:80/257193/257193/21225
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
-http://1111.wf:80/670252437/8989520/250111
+http://cdn22.cc:80/Magalhaesps/101280/229593.ts
 
-########################################### CANAIS Prime Video ############################################################
+########################################### CANAIS Amazon Prime Video ############################################################
 
-#EXTINF:-1 tvg-id="Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Prime video",Prime video
-http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/1010
+#EXTINF:-1 tvg-id="Amazon Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Amazon Prime video",Amazon Prime video 1
+http://cdn22.cc:80/Magalhaesps/101280/208962.ts
+
+#EXTINF:-1 tvg-id="Amazon Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Amazon Prime video",Amazon Prime video 2
+http://cdn22.cc:80/Magalhaesps/101280/208965.ts
+
+#EXTINF:-1 tvg-id="Amazon Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Amazon Prime video",Amazon Prime video 3
+http://cdn22.cc:80/Magalhaesps/101280/208970.ts
+
+#EXTINF:-1 tvg-id="Amazon Prime video" tvg-logo="https://rollingstone.com.br/media/_versions/logo_prime_video_foto_reproducao_widelg.jpg" group-title="Canais | Amazon Prime video",Amazon Prime video 4
+http://cdn22.cc:80/Magalhaesps/101280/208966.ts
 
 ########################################### CANAIS PREMIERE ############################################################
 
@@ -523,13 +729,22 @@ http://tv5.me:80/ItaloD/102030qaz/61088
 ################################################## Canais 24 horas  ##################################################
 
 #EXTINF:-1 tvg-id="chaves 24 horas" tvg-logo="https://pt.pinterest.com/pin/turma-do-chaves-png--693765517620675910/" group-title="Canais | Canais 24 horas",Chaves
-https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/Cv8G3rivV0M4PVsHnxV8qIAvRPWFzpCyI4MigvtdA5y6Pp-lsg0o1IHdG1DnU17wUf6Hep62mRk32XJXDq9ylFhpx8SfTPXuvAxc7inW7_LHw4c2SFwzp8i9RDz_QSNbguAdxLI776-PjVn0Oj5JHwCdYloN559ud5lebz3wDtN9ZSCFxjzmreqJDUhWDL6g_z4A-Ex_VJfywT9YUnouEl5-_wA6GIEqs-RVz5h7DVm1dImigeMNfVpKIHJljzKD5eXP48JkVh4Z31pZsP1n0eKZyNICHj0Ud2VbNda1EJLtgTdk8Le_Q--GDpnkL24_YzuAvEp1WYGp-d763U5QRdEJGyeoR2SmV6uF217DRqoft1OgAm3vPjYxb6c4apjKvcODdUY71qjAn1DJPrZz_tqIiaV1PgApv-PkfzhQ4sXdFQdTBEf1EsvfV7LV8lmdFYjwYERNy0i26uB5vnkqR9I3fbkiHOrYW7Q00lBTnbyax4sM7B34BoaSfL3zUE-EZg6ajtOfqOruiyBfQXgGRU-JVG6RbdRUntvn0KkpgMu6Dn2nWXIIBmvzVSBTzCZ_U0Amx630UQUr3CzQz1ScwzzVenMTDL2oWeQc0IZmjZ86J6liL078vchl4E_PbxWl6iX5oVsriuKHGaeYiF3jOo2mX5rsqJwVdznEdysECoG7z8-YZyH3s2IQB1JEOnzg88g7H959eaVvaC8qrwnhyMdn6vc6zdfKgNFr7SEWVthhSPmY8RuapKGSk99SnxSmLSEM04LqsK9cHj3JMysqBKiy22RaBBaxR-MuQnpn54zBIT5spQl7QwEDT9QBrx5XZ2ph8XgEvLBVXtfCGkPcN2QBeBn1mLStRVzg1d4XU-Y7kwMb9KqyPSGArkqsVozoJUgpOn0d3G1BIud1DSjcyWH3u9vDYgF0fueHCR_3aPCBK9G7QyLm-e3k0GssMReBIeyUoSQxA8VhHOYUIJ3jbWKueBQ7ARrDqdLM9uCEPZq3I4Zh94qQ4D5WhtNWYMioApHVGoaJMp9Trps_5wUNIMYNXi3fZgBOWRVqg5KBJDSCLJVBV3fZI7xHHsC-GqvlZ6B0yAJdeqfLWpWjKkB9huLBgDUvDqUiq5U8MzaKrXpdDkjEsVM2iD2hKFm6KI_dCyxVnJCRLjna9JTGX9sgPLPGEXG8g-67Z6hIwletfngRZxoMia0uj6OAWRwXMWcfIAEqCXVzLWVhc3QtMTD_CA.m3u8
+http://cdn22.cc:80/Magalhaesps/101280/227545.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SAI DE BAIXO" tvg-logo="http://70.ms/ZgY3bi" group-title="Canais | Canais 24 horas",SAI DE BAIXO
 http://tv5.me:80/ItaloD/102030qaz/99177
 
-#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO
-http://tv5.me:80/5511967135214/Te5511967135214/250593
+#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO 2021" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO 2021
+http://cdn22.cc:80/Magalhaesps/101280/228496.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO 2022" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO 2022
+http://cdn22.cc:80/Magalhaesps/101280/227624.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO 2023" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO 2023
+http://cdn22.cc:80/Magalhaesps/101280/227626.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" SERTANEJO 2024" tvg-logo="" group-title="Canais | Canais 24 horas", SERTANEJO 2024
+http://cdn22.cc:80/Magalhaesps/101280/227628.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Pagode" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Canais | Canais 24 horas",Pagode
 http://tv5.me:80/5511967135214/Te5511967135214/214763
@@ -537,10 +752,10 @@ http://tv5.me:80/5511967135214/Te5511967135214/214763
 ######################################## FUTEBOL VIVO AGORA #########################################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT
-http://xciptv.aplicativos.top:80/257193/257193/274647
+http://cdn22.cc:80/Magalhaesps/101280/190492.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT 
-http://xciptv.aplicativos.top:80/257193/257193/254104
+http://cdn22.cc:80/Magalhaesps/101280/55346.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
