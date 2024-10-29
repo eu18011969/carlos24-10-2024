@@ -1,24 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 28/10/2024 17:25:15
+#EXTINF:-1 tvg-logo="" group-title="CARLOS ROCHA 01/11/2024 17:25:15
 
 ########################################### CANAIS GLOBO ##############################################################
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Integracao Juiz de Fora MG HD
-http://tv5.me:80/geovani0003/Ye22209010/122155
+http://cdn22.cc:80/Magalhaesps/101280/65249.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ 
-http://tv5.me:80/ItaloD/102030qaz/35759
+http://cdn22.cc:80/Magalhaesps/101280/352.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
+http://cdn22.cc:80/Magalhaesps/101280/354.ts
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",MG
+http://cdn22.cc:80/Magalhaesps/101280/362.ts
 
-#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
+########################################### INFANTIL #########################################################
+
+#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO 1
 http://cdn22.cc:80/Magalhaesps/101280/128.ts
-
 
 ########################################### SINHÁ MOÇA #########################################################
 
@@ -383,10 +384,6 @@ https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi119.mp4
 https://novelasflix.vip/storage3/SINHA/SINHAzJ8ZbkUekz24eeeVxdBUi120.mp4
 
 
-
-
-
-
 ########################################### CANAIS BAND #########################################################
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band MG
@@ -395,7 +392,7 @@ http://cdn22.cc:80/Magalhaesps/101280/123583.ts
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP
 http://cdn22.cc:80/Magalhaesps/101280/113583.ts
 
-#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [FHD]" tvg-logo="http://p6.vc/VVL" group-title="Canais | Abertos",BAND RJ [FHD]
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ
 http://cdn22.cc:80/Magalhaesps/101280/122446.ts
 
 ########################################### CANAIS RedeTV ########################################################
@@ -426,7 +423,7 @@ http://tv5.me:80/ItaloD/102030qaz/150365
 ########################################### CANAIS CANÇÃO NOVA #########################################################
 
 #EXTINF:-1 group-title="Canais |  Religiosos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANCAONOVA.png",Canção Nova HD
-http://xciptv.aplicativos.top:80/257193/257193/240805
+http://cdn22.cc:80/Magalhaesps/101280/33379.ts
 
 ########################################### CANAIS RECORD TV #########################################################
 
@@ -475,23 +472,6 @@ http://cdn22.cc:80/Magalhaesps/101280/130231.ts
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News 
 http://tv5.me:80/ItaloD/102030qaz/21129
-
-################################################# CANAIS ESTRELA DA CASA ##############################################################
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | Estrela da casa",Estrela Da Casa 1
-https://cr7v.short.gy/ManoTV/Whats75991634025/ECCam1/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | Estrela da casa",Estrela Da Casa 2
-https://cr7v.short.gy/ManoTV/Whats75991634025/ECCam2/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | Estrela da casa",Estrela Da Casa 3
-http://xciptv.aplicativos.top:80/257193/257193/385528
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | Estrela da casa",Estrela Da Casa 4
-http://xciptv.aplicativos.top:80/257193/257193/385532
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | Estrela da casa",Estrela Da Casa 5
-http://xciptv.aplicativos.top:80/257193/257193/385529
 
 ######################################### A FAZENDA ##############################################################
 
